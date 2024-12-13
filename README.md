@@ -2,7 +2,8 @@
 
 Route Mate is a navigation platform designed to provide optimal routing solutions, real-time traffic updates, and seamless user experiences through interactive map integration. Built with a powerful tech stack, Route Mate ensures efficient and reliable navigation for users across various environments.
 
-![Route Mate Map](https://drive.google.com/file/d/1qoRxpuwlWPUG2FC-oC4vdWwldN5-fpOe/view?usp=sharing "Map of Route Mate")
+![Route Mate Map](Route-Mate.jpeg "Map of Route Mate")
+
 
 
 ## Features
