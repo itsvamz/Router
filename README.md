@@ -11,11 +11,17 @@ Route Mate is a navigation platform designed to provide optimal routing solution
 
 ## Tech Stack
 Frontend: React
+
 Backend: Flask
+
 Database: PostgreSQL
+
 Mapping Tools: Leaflet, OpenStreetMap
+
 Machine Learning: TensorFlow
+
 Client-Server Communication: Axios
+
 Deployment: Docker
 
 ## Contributing
